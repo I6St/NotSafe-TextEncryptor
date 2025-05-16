@@ -13,6 +13,6 @@ Run `encrypt_test.py`, input the plaintext, input the replacement characters and
 
 运行`encrypt_test.py`，输入明文，输入替换字符和密钥，即可输出内容。
 
-注意：替换字符不要出现在明文中！
-
 Note: Replacement characters must not appear in the plaintext!
+
+注意：替换字符不要出现在明文中！

@@ -9,9 +9,9 @@ How to use:
 
 如何使用:
 
-Run main.py, input the plaintext, input the replacement characters and the key, and the content will be outputted accordingly.
+Run `encrypt_test.py`, input the plaintext, input the replacement characters and the key, and the content will be outputted accordingly.
 
-运行main.py，输入明文，输入替换字符和密钥，即可输出内容。
+运行`encrypt_test.py`，输入明文，输入替换字符和密钥，即可输出内容。
 
 注意：替换字符不要出现在明文中！
 
